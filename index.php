@@ -13,7 +13,7 @@
         echo 'second line';
         echo '<br/>';
         $name='Florin Dobre';
-        $age=31;
+        $age=44;
         // echo variabile
 
         echo $name;
