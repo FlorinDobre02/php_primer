@@ -26,6 +26,7 @@
     <button type="button" class="btn btn-dark">CLICK ME!</button>
     <button type="button" class="btn btn-light">Light</button>
     <button type="button" class="btn btn-success">Success</button>
+    <a href="https://www.herohu.com"-target="_blank" class="btn btn-danger">Heroku.com</a>
     <?php
         require 'includes/footer.php'
     ?>
